@@ -4,13 +4,12 @@ Working in jupyter notebook for summer project of 24/25. Mainly using matplotlib
 To use files from fresh install of python will need to pip install notebook, numpy, scipy, xarray, matplotlib, cartopy, holoviews, hvplot, geoviews  
 
 ## File Guide
-Xarray_StartupGuide --> The basics of xarray + some extras: how to load in and plot data, including with map projections, vectors, animation
-MakingPlots --> slightly more in depth than xarray guide, covers most plots useful for atmospheric data + some miscellaneous other types of graphs
-            --> also shows how to make interactive plots two different ways
-Interactive_matplotlib --> redundant, deleting soon
-O3_Figures --> uses ozone data specifically, most helpful for scalar data focusing on concentration levels/chemistry based on location + pressure level
-Windfields --> uses wind data, most helpful for vector data based on location
-matplotlib, xarray --> not useful, just shows my first steps when learning how to use matplotlib and xarray
+Xarray_StartupGuide --> The basics of xarray + some extras: how to load in and plot data, including with map projections, vectors, animation 
+MakingPlots --> slightly more in depth than xarray guide, covers most plots useful for atmospheric data + some miscellaneous other types of graphs 
+            --> also shows how to make interactive plots two different ways 
+O3_Figures --> uses ozone data specifically, most helpful for scalar data focusing on concentration levels/chemistry based on location + pressure level 
+Windfields --> uses wind data, most helpful for vector data based on location 
+matplotlib, xarray --> not useful, just shows my first steps when learning how to use matplotlib and xarray 
 
 ## **Common error messages and solutions:**  
 
