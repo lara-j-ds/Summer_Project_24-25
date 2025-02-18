@@ -19,5 +19,5 @@ Fix: go to https://www.naturalearthdata.com/downloads/ or urls specified in erro
 NetCDF/HDF error; dataset file is likely open somewhere else.  
 Fix: restart the kernel in jupyter notebook (press 0 twice), then rerun required cells.  
 
-SyntaxWarning: invalid escape sequence; likely used a / somewhere in a string.  
-Fix: change / to either // or \, or change string assignment to r'whatever path is' to accept raw input
+SyntaxWarning: invalid escape sequence; likely used a / somewhere in a string, eg. when specifying a file path  
+Fix: change / to either // or \, or change string assignment to r'whatever/string/is' to accept raw input
